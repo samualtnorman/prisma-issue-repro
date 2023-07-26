@@ -1,0 +1,9 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@prisma/client": "5.0.0",
+    "prisma": "^5.0.0"
+  },
+  "type": "module",
+  "private": true
+}
